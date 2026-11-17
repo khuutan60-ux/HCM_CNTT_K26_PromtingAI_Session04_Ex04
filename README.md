@@ -1,6 +1,6 @@
 # Phân tích Trade-off các giải pháp ra lệnh cho Kỹ thuật Prompting Nâng cao (Logic & Chuỗi)
 
-Bài tập thuộc môn **Kỹ Năng Prompting với AI** ([Chi tiết môn học](https://lms-student.rikkei.edu.vn/courses)) - Buổi 4: Kỹ thuật Prompting Nâng cao (Logic & Chuỗi).
+Bài tập thuộc môn **Kỹ Năng Prompting với AI**  - Buổi 4: Kỹ thuật Prompting Nâng cao (Logic & Chuỗi).
 
 ---
 
